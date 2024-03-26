@@ -1,2 +1,2 @@
 # vit-efwi
-This repo is the dataset and codes for ViT-EFWI, which reproduces the results of our submitted manuscript "Improved elastic full-waveform inversion with Vision Transformer reparameterization and Recurrent Neural Network reformulation"
+This repository contains both the dataset and the codebase for ViT-EFWI, a project aimed at replicating the findings detailed in our submitted manuscript titled "Enhanced elastic full-waveform inversion through Vision Transformer reparameterization and Recurrent Neural Network reformulation".
