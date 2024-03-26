@@ -2,9 +2,9 @@
 This repository contains both the dataset and the codebase for ViT-EFWI, a project aimed at replicating the findings detailed in our submitted manuscript titled "Improved elastic full-waveform inversion with Vision Transformer reparameterization and Recurrent Neural Network reformulation".
 
 ![vitefwi_flow](./fig/vitefwi_flow.png)
-(The schematic architecture of the proposed ViT parameterization shown in red box integrated within RNN-based EFWI framework shown in blue box. )
+Fig1. The schematic architecture of the proposed ViT parameterization shown in red box integrated within RNN-based EFWI framework shown in blue box. 
 ![marmousi2_vit_deepwave](./fig/marmousi2_vit_deepwave.png)
-(The inverted elastic models for Marmousi2 model using clean data, (a) Vp, (b) Vs, and (c) density obtained by Deepwave EFWI; (d) Vp, (e) Vs, and (f) density obtained by the proposed ViT-EFWI. The MSEs are marked on each plot for quantitative comparison.)
+Fig2. The inverted elastic models for Marmousi2 model using clean data, (a) Vp, (b) Vs, and (c) density obtained by Deepwave EFWI; (d) Vp, (e) Vs, and (f) density obtained by the proposed ViT-EFWI. The MSEs are marked on each plot for quantitative comparison.
 
 ## Folder structure
 The list of files: 
