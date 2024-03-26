@@ -4,7 +4,7 @@ This repository contains both the dataset and the codebase for ViT-EFWI, a proje
 ![vitefwi_flow](./fig/vitefwi_flow.png)
 (The schematic architecture of the proposed ViT parameterization shown in red box integrated within RNN-based EFWI framework shown in blue box. )
 ![marmousi2_vit_deepwave](./fig/marmousi2_vit_deepwave.png)
-(The inverted elastic models for Marmousi2 model using clean data, (a) $V_p$, (b) $V_s$, and (c) density obtained by Deepwave EFWI; (d) $V_p$, (e) $V_s$, and (f) density obtained by the proposed ViT-EFWI. The MSEs are marked on each plot for quantitative comparison.)
+(The inverted elastic models for Marmousi2 model using clean data, (a) Vp, (b) Vs, and (c) density obtained by Deepwave EFWI; (d) Vp, (e) Vs, and (f) density obtained by the proposed ViT-EFWI. The MSEs are marked on each plot for quantitative comparison.)
 
 ## Folder structure
 The list of files: 
